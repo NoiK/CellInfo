@@ -1,4 +1,4 @@
-package nl.noik.materialdesign;
+package nl.noik.cellinfo;
 
 import android.app.Activity;
 import android.app.Fragment;
