@@ -5,7 +5,7 @@ android {
     buildToolsVersion "19.1.0"
 
     defaultConfig {
-        applicationId "nl.noik.materialdesign"
+        applicationId "nl.noik.cellinfo"
         minSdkVersion 16
         targetSdkVersion 21
         versionCode 1
